@@ -58,4 +58,4 @@ Los modelos guardados en formato Keras (`.keras`) son:
 
 - [ResNet50](modelos/ResNet50.keras)
 - [EfficientNetB0](modelos/EfficientNetB0.keras)
-- [MobileNetV3_Small](modelos/MobileNetV3 Small.keras)
+- [MobileNetV3_Small](<modelos/MobileNetV3 Small.keras>)
