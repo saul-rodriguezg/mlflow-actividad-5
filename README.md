@@ -51,4 +51,3 @@ Python, TensorFlow/Keras, scikit-learn, MLflow y Google Colab.
 Se utilizó MLflow para registrar los parámetros y métricas de las configuraciones evaluadas durante el Grid Search, así como los modelos originales entrenados.
 
 ![Experimentos registrados en MLflow](imagenes/mlflow.png)
-
